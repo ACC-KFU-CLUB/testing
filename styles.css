@@ -2052,8 +2052,8 @@ position: relative;
     content: "";
     position: absolute;
     top: -20px;
-    left: calc(12% - 3px);
-    width: calc(77% + 3px);
+    left: calc(12% - 4px);
+    width: calc(77% + 5px);
     height: 2px;
     background: var(--black);
     }
