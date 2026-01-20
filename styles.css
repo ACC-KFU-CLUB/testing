@@ -1900,7 +1900,7 @@ position: relative;
     content: "";
     position: absolute;
     top: -20px;
-    left: calc(12% - 0px);
+    left: calc(12% - 1px);
     width: calc(74% + 10px);
     height: 2px;
     background: var(--black);
