@@ -2022,8 +2022,8 @@ position: relative;
     content: "";
     position: absolute;
     top: -20px;
-    left: calc(17% - 9px);
-    width: calc(71% + 2px);
+    left: calc(14% - 9px);
+    width: calc(73% + 4px);
     height: 2px;
     background: var(--black);
     }
@@ -2052,8 +2052,8 @@ position: relative;
     content: "";
     position: absolute;
     top: -20px;
-    left: calc(12% - 5px);
-    width: calc(77% + 5px);
+    left: calc(12% - 4px);
+    width: calc(77% + 4px);
     height: 2px;
     background: var(--black);
     }
@@ -2111,9 +2111,8 @@ position: relative;
     height: 2px;
     background: var(--black);
     }
-
-  
 }
+
 
 
 /* Put this in your CSS file (auto-fit inside each rectangle) */
