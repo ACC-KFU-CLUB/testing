@@ -2052,7 +2052,7 @@ position: relative;
     content: "";
     position: absolute;
     top: -20px;
-    left: calc(12% - 4px);
+    left: calc(12% - 5px);
     width: calc(77% + 5px);
     height: 2px;
     background: var(--black);
